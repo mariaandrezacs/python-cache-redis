@@ -1,0 +1,3 @@
+sudo docker run --name meu-redis -p 6379:6379 -d redis 
+
+https://github.com/rocketseat-creators-program/melhorando-performance-python-redis-2022-01-12/tree/main
